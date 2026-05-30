@@ -1,4 +1,4 @@
-- sriraksha-bmsce# ============================================================
+# ============================================================
 # MLOps QUEST - Student Roster
 # ============================================================
 # Each student adds themselves here via PR on day 1.
@@ -12,6 +12,7 @@ students:
    # Add student usernames here, one per line, with a leading dash.
   - urmsandeep-test-01
   - ShaistaAfreen09
+  - sriraksha-bmsce
 
 
 
